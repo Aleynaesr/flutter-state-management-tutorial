@@ -3,6 +3,46 @@
 
 #### This repository contains getX, provider and more examples.
 
+## Provider Usage - Todo App With Provider
+
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/157251355-0736b6e5-af6d-4833-a5e1-dff064d9ca82.png" height=300pm></td>
+           <td><img src="https://user-images.githubusercontent.com/45822686/157251362-73a3111b-6d58-440e-9a27-f4e0f68071e6.png" height=300pm></td>
+           <td><img src="https://user-images.githubusercontent.com/45822686/157251367-f4000bb4-8ddd-45c7-a5df-0925d772879b.png" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+  
+  #### Packages in use:
+  
+* provider: ^6.0.2
+* flutter_slidable: ^1.2.0
+   
+<hr> </hr>
+ 
+
+## Provider Usage 
+
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/157251568-d9b0f343-8efc-45a0-9abf-b84603e91852.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/157251578-72a5d7af-f853-4329-89ce-494c25687be9.gif" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+  
+  #### Packages in use:
+  
+  
+* provider: ^6.0.2
+   
+<hr> </hr>
+
+
+
 ## GetX Usage - Weight Tracker App
 
  <table>
